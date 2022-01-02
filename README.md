@@ -1,2 +1,0 @@
-# bashrc
-My bash profile
